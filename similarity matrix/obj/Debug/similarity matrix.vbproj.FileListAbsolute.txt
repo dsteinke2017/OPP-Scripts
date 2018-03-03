@@ -1,0 +1,11 @@
+c:\users\dirk\documents\visual studio 2013\Projects\similarity matrix\similarity matrix\bin\Debug\similarity matrix.exe.config
+C:\Users\Dirk\Documents\Visual Studio 2013\Projects\similarity matrix\similarity matrix\obj\Debug\similarity matrix.vbproj.ResolveComReference.cache
+C:\Users\Dirk\Documents\Visual Studio 2013\Projects\similarity matrix\similarity matrix\bin\Debug\similarity matrix.exe
+C:\Users\Dirk\Documents\Visual Studio 2013\Projects\similarity matrix\similarity matrix\bin\Debug\similarity matrix.pdb
+C:\Users\Dirk\Documents\Visual Studio 2013\Projects\similarity matrix\similarity matrix\bin\Debug\similarity matrix.xml
+C:\Users\Dirk\Documents\Visual Studio 2013\Projects\similarity matrix\similarity matrix\obj\Debug\similarity_matrix.Form1.resources
+C:\Users\Dirk\Documents\Visual Studio 2013\Projects\similarity matrix\similarity matrix\obj\Debug\similarity_matrix.Resources.resources
+C:\Users\Dirk\Documents\Visual Studio 2013\Projects\similarity matrix\similarity matrix\obj\Debug\similarity matrix.vbproj.GenerateResource.Cache
+C:\Users\Dirk\Documents\Visual Studio 2013\Projects\similarity matrix\similarity matrix\obj\Debug\similarity matrix.exe
+C:\Users\Dirk\Documents\Visual Studio 2013\Projects\similarity matrix\similarity matrix\obj\Debug\similarity matrix.xml
+C:\Users\Dirk\Documents\Visual Studio 2013\Projects\similarity matrix\similarity matrix\obj\Debug\similarity matrix.pdb
